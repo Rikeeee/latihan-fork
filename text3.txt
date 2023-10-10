@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 chucejcnkwcnkw
-=======
 bhdbxwjkxnkwjxn
 feature3
->>>>>>> feature3
